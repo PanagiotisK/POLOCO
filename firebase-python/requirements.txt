@@ -1,0 +1,5 @@
+python-telegram-bot
+nest_asyncio
+firebase_admin
+urllib3==1.26.6
+pydantic-settings
